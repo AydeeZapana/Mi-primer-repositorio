@@ -1,0 +1,17 @@
+2024-03-30 18:01:57.509 [info] 
+
+
+
+
+2024-03-30 18:01:57.509 [info] Extension host agent started.
+2024-03-30 18:01:57.509 [info] Started initializing default profile extensions in extensions installation folder. file:///home/root1/.vscode-server/extensions
+2024-03-30 18:01:57.859 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/root1/.vscode-server/extensions
+2024-03-30 18:01:58.487 [info] [127.0.0.1][32e3659f][ManagementConnection] New connection established.
+2024-03-30 18:01:59.468 [info] [127.0.0.1][13869417][ExtensionHostConnection] New connection established.
+2024-03-30 18:01:59.568 [info] [127.0.0.1][13869417][ExtensionHostConnection] <1904> Launched Extension Host Process.
+2024-03-31 08:23:29.588 [info] [127.0.0.1][32e3659f][ManagementConnection] The client has reconnected.
+2024-03-31 08:23:31.380 [info] [127.0.0.1][13869417][ExtensionHostConnection] The client has reconnected.
+2024-03-31 10:50:40.099 [info] [127.0.0.1][32e3659f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-31 10:50:54.079 [warning] No ptyHost heartbeat after 6 seconds
+2024-03-31 10:50:59.081 [error] No ptyHost heartbeat after 12 seconds
+2024-03-31 10:51:00.585 [info] [127.0.0.1][13869417][ExtensionHostConnection] <1904> Extension Host Process exited with code: 0, signal: null.
